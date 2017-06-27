@@ -6,7 +6,7 @@ Simple JSON API client working with endpoint [http://landlord-reputation.herokua
 # About API
 ## Sample API Request
 `http://landlord-reputation.herokuapp.com/reputation/api/127.0136994+37.5559542/`  
-`API endpoint URL/latitude+longitude/`
+**API URL Structure** : `Endpoint URL/latitude+longitude/`
 
 ## Sample API Response
 ``` json
@@ -22,7 +22,7 @@ Simple JSON API client working with endpoint [http://landlord-reputation.herokua
 GET/PUT/PATHCH/DELETE(need Authentication for Non-safe Methods)
 
 # Documentation (Korean)
-For detailed documentation visit [My Blog](https://minyoungjung.github.io/파이썬/django/웹서비스/2017/06/27/android-rest-api-client-volley/)
+For detailed documentation visit [My Blog](https://minyoungjung.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC/django/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4/android/2017/06/27/android-rest-api-client-volley/)
 
 ## Clone project
 
