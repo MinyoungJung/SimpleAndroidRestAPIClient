@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API client Example</string>
+    <string name="latitude">위도</string>
+    <string name="longitude">경도</string>
+    <string name="request">요청</string>
+</resources>
